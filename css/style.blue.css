@@ -19,7 +19,7 @@ section {
 }
 
 .hero {
-  background: url(../img/macbook-juice.jpg);
+  /* background: url(img/london.jpeg); */
   min-height: 100vh;
   display: -ms-flexbox;
   display: flex;
@@ -134,15 +134,15 @@ section {
   text-decoration: none;
 }
 
-.social-link-facebook {
+.social-link-email {
   background: #4460ae;
 }
 
-.social-link-twitter {
+.social-link-linkedin {
   background: #3cf;
 }
 
-.social-link-instagram {
+.social-link-github {
   background: #cd4378;
 }
 

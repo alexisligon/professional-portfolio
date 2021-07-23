@@ -19,7 +19,7 @@ section {
 }
 
 .hero {
-  /* background: url(img/london.jpeg); */
+  background-image : url(img/london.jpeg);
   min-height: 100vh;
   display: -ms-flexbox;
   display: flex;
@@ -196,6 +196,7 @@ section {
 .z-index-5 {
   z-index: 50;
 }
+
 
 /*
 *

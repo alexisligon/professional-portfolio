@@ -27,3 +27,8 @@ body {
     background-color: #ddd;
     color: black;
 }
+
+.social-link a:hover {
+    background: #ddd;
+    color: black;
+}

@@ -130,24 +130,10 @@ section {
 }
 
 .social-link:hover, .social-link:focus {
-  color: #fff;
+  color: black;
   text-decoration: none;
-}
+  background: #fff;
 
-.social-link-facebook {
-  background: #4460ae;
-}
-
-.social-link-twitter {
-  background: #3cf;
-}
-
-.social-link-instagram {
-  background: #cd4378;
-}
-
-.social-link-google-plus {
-  background: #c21f25;
 }
 
 .lined::after {

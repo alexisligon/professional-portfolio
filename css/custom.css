@@ -9,6 +9,8 @@ body {
 }
 
 .topnav {
+    position: fixed;
+    width: 100%;
     overflow: hidden;
     background-color: #333;
     text-align: center;

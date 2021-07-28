@@ -114,8 +114,8 @@ section {
 }
 
 .social-link {
-  width: 26px;
-  height: 26px;
+  width: 70px;
+  height: 70px;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-align: center;
@@ -126,7 +126,7 @@ section {
   color: #fff;
   text-decoration: none;
   background: #379392;
-  font-size: 0.8rem;
+  font-size: 3rem;
 }
 
 .social-link:hover, .social-link:focus {
@@ -1006,7 +1006,7 @@ STYLE SWITCHER FOR DEMO
  */
 body {
   font-family: "cardo", sans-serif;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
